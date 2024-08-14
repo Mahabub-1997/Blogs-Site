@@ -65,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Blogs-Site
+Step-1: if a user can run this project he/she can see the home page.where he/she can see the post but did not access to write any blgs related post.so you need too register.
+step-2:once you register you can see the page home page again and you can post even multiple images. 
+step-3: you can update multiple images or delete the post post.
+step-4: once done than log out and once you doing register you dont need to register only login and see the feature again.
